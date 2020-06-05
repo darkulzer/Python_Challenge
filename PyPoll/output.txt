@@ -1,0 +1,8 @@
+--------------------
+Total Votes = 3521001
+Candidates who received votes include:
+	             2218231 (63.00%) Khan
+	              704200 (19.99%) Correy
+	              492940 (13.99%) Li
+	              105630 (2.999%) O'Tooley
+Khan was the winner! O'Tooley was in last place.
